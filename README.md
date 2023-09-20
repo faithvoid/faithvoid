@@ -1,4 +1,9 @@
-### Hi there 👋
+### layer;01
+## about:
+- Faith Void
+- 27
+- Ae/Aer
+- Freelance IT technician, programmer, DJ and musician.
 
 <!--
 **faithvoid/faithvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
