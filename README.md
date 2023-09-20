@@ -1,5 +1,4 @@
 ### layer;01
-## about:
 - Faith Void
 - 27
 - Ae/Aer
