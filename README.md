@@ -1,8 +1,8 @@
 ### layer;01
-- Faith Void
-- 27
-- Ae/Aer
-- Freelance IT technician, programmer, DJ and musician.
+- Faith Void | 27 | She/Her + Ae/Aer
+- Freelance IT technician, programmer, DJ and musician. Also a huge photography/videography nerd.
+
+If any of my Nintendo Switch ports stop working on newer firmwares, please open an issue and I'll recompile with the latest libNX!
 
 <!--
 **faithvoid/faithvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
