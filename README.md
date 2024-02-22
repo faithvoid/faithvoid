@@ -4,6 +4,11 @@
 
 If any of my Nintendo Switch ports stop working on newer firmwares, please open an issue and I'll recompile with the latest libNX!
 
+## Currently working on:
+- PiHOLED (basic Python script to display Raspberry Pi, Network, PiHole and RetroPie statistics on SH1106-based 1.3 inch (128x64) OLED display HATs)
+- MixxxUtilities (Various scripts and programs for simplifying one's workflow in Mixxx.)
+- Hercules DJ 4Set DJ Controller mapping for Mixxx (~95%, need to implement light vs hard jog code and better loop in/out functionality).
+
 <!--
 **faithvoid/faithvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
