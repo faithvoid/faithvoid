@@ -1,5 +1,5 @@
 ## layer;01
-*** - Faith Void | 28 | She/Her + Ae/Aer ***
+***Faith Void | 28 | She/Her + Ae/Aer***
 
 Welcome to my GitHub page! I'm Faith, a freelance IT tech, open-source programmer, DJ, and musician from Canada. 
 
