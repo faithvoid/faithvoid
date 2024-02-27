@@ -12,6 +12,5 @@ My main programming languages of choice are **Python**, **HTML** and **C++** and
 If any of my Nintendo Switch ports stop working on newer firmwares, please open an issue and I'll recompile with the latest libNX!
 
 ## Mixxx Controller Mappings:
-- **Hercules DJ 4Set** (~95%, need to implement light vs hard jog code and better loop in/out functionality).
+- **Hercules DJ 4Set** (~99%, last things to implement are spinback via Scratch button + keeping LED 1/3 on when looping under 1 beat or over 4 beats).
 - **Novation Launchpad X** (mostly finished, just need to figure out if LED states and colours can be called via JS for more user customizability). 
-
