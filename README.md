@@ -7,7 +7,7 @@ My main programming languages of choice are **Python**, **HTML** and **C++** and
 
 ## Currently working on:
 - **JX720 - Insignia Edition** - Xbox Media Centre / XBMC4Xbox theme which integrates Insignia information, modernizations and additional quality-of-life features.
-- **HearThisAtX** - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox.
+- **HearThisAtX** - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox. (Functionally complete, needs a few QoL features).
 - **PiHOLED** (basic Python script to display Raspberry Pi, Network, PiHole and RetroPie statistics on SH1106-based 1.3 inch (128x64) OLED display HATs)
 - **MixxxUtilities** (Various scripts and programs for simplifying one's workflow in Mixxx.)
 
