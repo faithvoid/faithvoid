@@ -10,10 +10,11 @@ If any of my Nintendo Switch ports stop working on newer firmwares, please open 
 [XBMC Addons](https://github.com/faithvoid/xbmc-addons)
 
 ## Currently working on:
-- **JX720 - Insignia Edition** - Xbox Media Centre / XBMC4Xbox theme which integrates Insignia information, modernizations and additional quality-of-life features.
-- **HearThisAtX** - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox. (Functionally complete, needs a few QoL features).
-- **PiHOLED** (basic Python script to display Raspberry Pi, Network, PiHole and RetroPie statistics on SH1106-based 1.3 inch (128x64) OLED display HATs)
-- **MixxxUtilities** (Various scripts and programs for simplifying one's workflow in Mixxx.)
+- [**JX720 - Insignia Edition**](https://github.com/faithvoid/JX720-Insignia/) - Xbox Media Centre / XBMC4Xbox theme which integrates Insignia information, modernizations and additional quality-of-life features.
+- [**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia & XLink Kai server browser / session notifier for XBMC.
+- [**HearThisAtX**]([https://github.com/faithvoid/JX720-Insignia](https://github.com/faithvoid/plugin.music.hearthisat)) - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox. (Functionally complete, needs a few QoL features).
+- [**PiHOLED**](https://github.com/faithvoid/PiHOLED) (basic Python script to display Raspberry Pi, Network, PiHole and RetroPie statistics on SH1106-based 1.3 inch (128x64) OLED display HATs)
+- [**MixxxUtilities**](https://github.com/faithvoid/MixxxUtilities) (Various scripts and programs for simplifying one's workflow in Mixxx.)
 
 
 ## Mixxx Controller Mappings:
