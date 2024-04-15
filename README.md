@@ -5,6 +5,8 @@ Welcome to my GitHub page! I'm Faith, a freelance IT tech, open-source programme
 
 My main programming languages of choice are **Python**, **HTML** and **C++** and the systems I target are usually ARM-based systems such as the **Raspberry Pi**, **Nintendo Switch**, and as of recently, the **original Xbox**, but I've been getting into RISC-V development recently!
 
+- [XBMC Addons](https://github.com/faithvoid/xbmc-addons)
+
 ## Currently working on:
 - **JX720 - Insignia Edition** - Xbox Media Centre / XBMC4Xbox theme which integrates Insignia information, modernizations and additional quality-of-life features.
 - **HearThisAtX** - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox. (Functionally complete, needs a few QoL features).
