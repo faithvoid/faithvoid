@@ -3,7 +3,7 @@
 
 Welcome to my GitHub page! I'm Faith, a freelance IT tech, open-source programmer, DJ, and musician from Canada. 
 
-My main programming languages of choice are **Python**, **HTML** and **C++** and the systems I target are usually ARM-based systems such as the **Raspberry Pi**, and the **Nintendo Switch**, but I've been getting into original Xbox & RISC-V development recently!
+My main programming languages of choice are **Python**, **HTML** and **C++** and the systems I target are usually *nix-based & ARM-based systems such as the **Raspberry Pi**, and the **Nintendo Switch**, but I've been getting into original Xbox & RISC-V development recently!
 
 If any of my Nintendo Switch ports stop working on newer firmwares, please open an issue and I'll recompile with the latest libNX!
 
