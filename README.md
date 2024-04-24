@@ -12,6 +12,7 @@ If any of my Nintendo Switch ports stop working on newer firmwares, please open 
 ## Currently working on:
 ### Xbox:
 - [**Cortana**](https://github.com/faithvoid/skin.cortana) - Xbox Media Centre / XBMC4Xbox theme which integrates Insignia & XLink Kai server information, modernizations, match joining, and additional quality-of-life features.
+- [**CortanaChat**](https://github.com/faithvoid/script.cortanachat) - Xbox Media Centre / XBMC4Xbox script for 2-way IP-based instant messaging, with realtime notifications!
 - [**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia & XLink Kai server browser / session notifier for Xbox Media Centre / XBMC4Xbox.
 - [**HearThisAtX**](https://github.com/faithvoid/plugin.music.hearthisat) - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox. (Functionally complete, needs a few QoL features).
 - [**shibeViewer**](https://github.com/faithvoid/plugin.image.shibeViewer) - Make your day brighter by looking at some cats, birds, and shibes on your Xbox, powered by shibe.online! 
