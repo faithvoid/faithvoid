@@ -16,7 +16,6 @@ If any of my Nintendo Switch ports stop working on newer firmwares, please open 
 - [**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia & XLink Kai server browser / session notifier for Xbox Media Centre / XBMC4Xbox.
 - [**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Wireless adapter solution for the original Xbox using a Raspberry Pi and an ethernet adapter.
 - [**HearThisAtX**](https://github.com/faithvoid/plugin.music.hearthisat) - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox. (Functionally complete, needs a few QoL features).
-- [**shibeViewer**](https://github.com/faithvoid/plugin.image.shibeViewer) - Make your day brighter by looking at some cats, birds, and shibes on your Xbox, powered by shibe.online! 
 
 ### Other:
 - [**Pastel97**](https://github.com/faithvoid/Pastel97) - Custom Redmond97 colour palettes for XFCE4!
