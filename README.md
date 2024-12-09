@@ -17,6 +17,7 @@ If any of my Nintendo Switch ports stop working on newer firmwares, please open 
 - [**Cortana Companion**](https://github.com/faithvoid/script.cortanacompanion) - Script for XBMC4Xbox + Raspberry Pi to use the Raspberry Pi as a wireless "modchip-esque" display using a SH1106/SSD1306.
 - [**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Wireless adapter solution for the original Xbox using a Raspberry Pi and an ethernet adapter.
 - [**HearThisAtX**](https://github.com/faithvoid/plugin.music.hearthisat) - HearThis.At plugin for Xbox Media Centre / XBMC4Xbox. (Functionally complete, needs a few QoL features).
+- [**ScrobbleBox**](https://github.com/faithvoid/script.scrobblebox) - Offline Last.FM/Libre.FM scrobbler for XBMC.
 - [**Alexandria**](https://github.com/faithvoid/script.alexandria) - Internet Archive downloader for XBMC.
 
 ### Other:
