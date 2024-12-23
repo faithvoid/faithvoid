@@ -1,4 +1,12 @@
 ## layer;01.initialize
+
+______ ___  _____ _____ _   _       __  _   _  _____ ___________ 
+|  ___/ _ \|_   _|_   _| | | |     / / | | | ||  _  |_   _|  _  \
+| |_ / /_\ \ | |   | | | |_| |    / /  | | | || | | | | | | | | |
+|  _||  _  | | |   | | |  _  |   / /   | | | || | | | | | | | | |
+| |  | | | |_| |_  | | | | | |  / /    \ \_/ /\ \_/ /_| |_| |/ / 
+\_|  \_| |_/\___/  \_/ \_| |_/ /_/      \___/  \___/ \___/|___/  
+
 [Faith Void | 28 | she/ae]
 
 Welcome to my GitHub page! I'm Faith, a freelance IT tech, open-source programmer, DJ, archivist, and musician from Canada. 
