@@ -12,8 +12,9 @@ If any of my Nintendo Switch ports stop working on newer firmwares, please open 
 
 ### Projects:
 - [**Pastel97**](https://github.com/faithvoid/Pastel97) - Custom Redmond97 colour palettes for XFCE4!
-- [**PiHOLED**](https://github.com/faithvoid/PiHOLED) (basic Python script to display Raspberry Pi, Network, PiHole and RetroPie statistics on SH1106-based 1.3 inch (128x64) OLED display HATs)
-- [**MixxxUtilities**](https://github.com/faithvoid/MixxxUtilities) (Various scripts and programs for simplifying one's workflow in Mixxx.)
+- [**PiHOLED**](https://github.com/faithvoid/PiHOLED) - basic Python script to display Raspberry Pi, Network, PiHole and RetroPie statistics on SH1106-based 1.3 inch (128x64) OLED display HATs
+- [**MixxxUtilities**](https://github.com/faithvoid/MixxxUtilities) - Various scripts and programs for simplifying one's workflow in Mixxx.
+- [**sakura1n**](https://github.com/faithvoid/sakura1n) - Raspberry Pi Zero based one-click install solution for iOS device jailbreaking.
 ### Mixxx Controller Mappings:
 - **Hercules DJ 4Set** (~99%, last things to implement are spinback via Scratch button + keeping LED 1/3 on when looping under 1 beat or over 4 beats).
 - **Novation Launchpad X** (mostly finished, just need to figure out if LED states and colours can be called via JS for more user customizability). 
