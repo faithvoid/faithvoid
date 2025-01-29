@@ -1,6 +1,6 @@
 ## layer;01.initialize
 
-[Faith Void | 28 | she/ae]
+[Faith Void | 29 | she/ae]
 
 Welcome to my GitHub page! I'm Faith, a freelance IT tech, open-source programmer, DJ, archivist, and musician from Canada. 
 
