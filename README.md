@@ -11,6 +11,7 @@ If any of my Nintendo Switch ports stop working on newer firmwares, please open 
 [XBMC Addons](https://github.com/faithvoid/xbmc-addons)
 
 ### Projects:
+- [**OpenArenaNX**](https://github.com/faithvoid/OpenArenaNX) / [**VoyagerNX**](https://github.com/faithvoid/VoyagerNX) - Ports of OpenArena, Quake III Arena and Star Trek Voyager: Elite Force - Holomatch to the Nintendo Switch. (inactive)
 - [**Cortana**](https://github.com/faithvoid/skin.cortana) - An "Xbox 180" style XBMC4Xbox skin with an emphasis on re-integrating social / multiplayer features. Based on the JX720 skin.
 - [**Pastel2K**](https://github.com/faithvoid/Pastel2K) - Custom Redmond97 colour palettes for XFCE4!
 - [**PiHOLED**](https://github.com/faithvoid/PiHOLED) - basic Python script to display Raspberry Pi, Network, PiHole and RetroPie statistics on SH1106-based 1.3 inch (128x64) OLED display HATs
