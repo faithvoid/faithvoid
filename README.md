@@ -1,12 +1,12 @@
 ## layer;01.initialize
 
-[Faith Void | 29 | she/ae]
+[ Rachel Bartmoss | 30 | ae/aer ]
 
-Welcome to my GitHub page! I'm Faith, a freelance IT tech, open-source programmer, DJ, archivist, and musician from Canada. 
+Welcome to my GitHub page! I'm faithvoid, a freelance IT tech, open-source programmer, DJ, archivist, and musician from Canada. 
 
 My main programming languages of choice are **Python**, **HTML** and **C++** and the systems I target are usually *nix-based & ARM-based systems such as the **Raspberry Pi**, and the **Nintendo Switch**, but I've been getting into original Xbox & RISC-V development recently!
 
-If any of my Nintendo Switch ports stop working on newer firmwares, please open an issue and I'll recompile with the latest libNX!
+If any of my Nintendo Switch ports stop working on newer firmwares, please open an issue and I'll recompile with the latest libNX! Please note that my Switch ports are considered "deprecated" now, as I no longer own a Switch and have moved on to the Steam Deck.
 
 [XBMC Addons](https://github.com/faithvoid/xbmc-addons)
 
