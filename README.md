@@ -1,7 +1,5 @@
 ## layer;01.initialize
 
-[ Rachel Bartmoss | 30 | ae/aer ]
-
 Welcome to my GitHub page! I'm faithvoid, a freelance IT tech, open-source programmer, DJ, archivist, and musician from Canada. 
 
 My main programming languages of choice are **Python**, **HTML** and **C++** and the systems I target are usually *nix-based & ARM-based systems such as the **Raspberry Pi**, and the **Nintendo Switch**, but I've been getting into original Xbox & RISC-V development recently!
