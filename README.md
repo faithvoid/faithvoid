@@ -9,6 +9,7 @@ If any of my Nintendo Switch ports stop working on newer firmwares, please open 
 [XBMC Addons](https://github.com/faithvoid/xbmc-addons)
 
 ### Projects:
+- [**sakuraCast**](https://github.com/faithvoid/sakuraCast) - yt-dlp + ffmpeg + pychromecast powered Chromecast casting application, with custom aspect ratio / resolution / overscan support for 4:3 or similar devices.
 - [**sakuraPresence**](https://github.com/faithvoid/sakuraPresence) - Discord Rich Presence server for Playstation 1/2/3/Portable/Vita, Xbox/360, Wii/U, Gamecube, Dreamcast, and more!
 - [**OpenArenaNX**](https://github.com/faithvoid/OpenArenaNX) / [**VoyagerNX**](https://github.com/faithvoid/VoyagerNX) - Ports of OpenArena, Quake III Arena and Star Trek Voyager: Elite Force - Holomatch to the Nintendo Switch. (inactive)
 - [**Cortana**](https://github.com/faithvoid/skin.cortana) - An "Xbox 180" style XBMC4Xbox skin with an emphasis on re-integrating social / multiplayer features. Based on the JX720 skin.
